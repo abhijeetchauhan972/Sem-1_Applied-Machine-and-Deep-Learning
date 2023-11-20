@@ -1,1 +1,1 @@
-# Sem-1_Machine-learning-Deep-learning
+# Sem-1_Machine learning
